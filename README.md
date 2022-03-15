@@ -20,3 +20,10 @@ npm install
 Step 2: Run the Frontend application 
 ng serve
 ```
+
+Hit http://localhost:4200 link in a browser
+
+<H2>UI</H2>
+<img src="https://1.bp.blogspot.com/-jbDj0IuHSjc/X8p3jGEyJcI/AAAAAAAAAwQ/_1JdKRQWScIlU_uvPUzG42_7v7hXMGO-wCLcBGAsYHQ/s1530/list-view.png" >
+
+
